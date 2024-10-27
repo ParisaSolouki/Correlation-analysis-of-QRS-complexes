@@ -1,4 +1,4 @@
-# Calculating the correlation between one QRS complex and other QRS complexes
+# Calculating the correlation between one QRS complex and other QRS complexes(N,S,F,V,Q)
 This code processes ECG signals from the MIT-BIH Arrhythmia Database, focusing on beat segmentation and correlation analysis of QRS complexes. After reading the ECG data files and applying necessary filtering, it segments the beats based on annotations and calculates the correlation between selected QRS complexes and a template derived from normal heartbeats (N type).
 
 
